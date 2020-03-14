@@ -1,0 +1,2 @@
+# rust-playground
+practice rust
